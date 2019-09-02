@@ -1,6 +1,7 @@
 Store_Project_MS
 
 Goals of this project:
+
 	Mikroservices:
 		- understanding Microservices
 		- how to make one
